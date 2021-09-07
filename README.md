@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-Email : frndsaroj@gmail.com
-Phone : +917978744844
+Email : frndsaroj@gmail.com /
+Phone : +917978744844 /
 Skype: frndsaroj
 
 <!---
